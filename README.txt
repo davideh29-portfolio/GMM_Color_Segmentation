@@ -1,3 +1,5 @@
+First project for Learning in Robotics course. Refer to report for more details
+
 Files:
 
 barrels_train.py
